@@ -1,0 +1,24 @@
+.res-tbl tbody tr th{
+    width: 150px;
+    min-width: 150px;
+    background: rgba(0, 0, 0, 0.20);
+}
+.res-tbl tbody tr td{
+    padding-left: 30px;
+}
+.price-per-night > table tbody tr td.sl {
+    width: 50px;
+}
+.borderless td, .borderless th {
+    border: none;
+}
+#coupon-code{
+    width: 150px;
+    margin: 0;
+}
+
+.gj-modal .gj-picker table tr td.disabled div{
+    background: rgba(255, 0, 0, 0.47);
+    border-radius: 5px;
+    cursor: no-drop;
+}
